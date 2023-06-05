@@ -1,0 +1,17 @@
+{
+    "name": "401/transporte",
+    "autoload": {
+        "psr-4": {
+            "401\\Transporte\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Santiago",
+            "email": "Santyfomezduque30@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.28"
+    }
+}
